@@ -6,18 +6,19 @@
 * [2.環境設定](chapter1.md)
   * [2.1 建立資料庫](chapter1/21-jian-li-zi-liao-ku.md)
 * [3.波形瀏覽](a.md)
-  * [1.讀取連續紀錄](a/1du-qu-lian-xu-ji-lu.md)
-  * [2.波形操作](a/2bo-xing-cao-zuo.md)
-    * [2.1 視窗時間](a/2bo-xing-cao-zuo/21-shi-chuang-shi-jian.md)
-    * [2.2 改變瀏覽震幅](a/2bo-xing-cao-zuo/22-gai-bian-liu-lan-zhen-fu.md)
-    * [2.3 移動時間軸](a/2bo-xing-cao-zuo/23-yi-dong-shi-jian-zhou.md)
-    * [2.4 選擇測站，channel](a/2bo-xing-cao-zuo/24-xuan-ze-ce-zhan-ff0c-channel.md)
-    * [2.5 顯示單一測站的所有channels](a/2bo-xing-cao-zuo/25-xian-shi-dan-yi-ce-zhan-de-suo-you-channels.md)
-    * [2.6 如何濾波](a/2bo-xing-cao-zuo/26-ru-he-lv-bo.md)
-* [4.波相選取](aa.md)
-* [5.地震定位](5di-zhen-ding-wei.md)
+  * [3.1 讀取連續紀錄](a/1du-qu-lian-xu-ji-lu.md)
+  * [3.2 波形操作](a/2bo-xing-cao-zuo.md)
+    * [3.2.1 視窗時間](a/2bo-xing-cao-zuo/21-shi-chuang-shi-jian.md)
+    * [3.2.2 改變瀏覽震幅](a/2bo-xing-cao-zuo/22-gai-bian-liu-lan-zhen-fu.md)
+    * [3.2.3 移動時間軸](a/2bo-xing-cao-zuo/23-yi-dong-shi-jian-zhou.md)
+    * [3.2.4 選擇測站，channel](a/2bo-xing-cao-zuo/24-xuan-ze-ce-zhan-ff0c-channel.md)
+    * [3.2.5 顯示單一測站的所有channels](a/2bo-xing-cao-zuo/25-xian-shi-dan-yi-ce-zhan-de-suo-you-channels.md)
+    * [3.2.6 如何濾波](a/2bo-xing-cao-zuo/26-ru-he-lv-bo.md)
+  * [3.3 波形擷取](a/a.md)
+  * [3.4 波相到時選取](aa.md)
+* [4.地震定位](5di-zhen-ding-wei.md)
   * [5.1 利用 s-files 定位](5di-zhen-ding-wei/51-61-locate-a-local-event-using-phases-in-s-file.md)
-* 6.規模
-* 7.震源機制解
-* 8.輸出
+* 5.規模
+* [6.震源機制解](7zhen-yuan-ji-zhi-jie.md)
+* 7.輸出
 
