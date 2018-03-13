@@ -7,7 +7,7 @@
 Any question or suggestion, please contact us:
 
 1. **M.H.Shih**\(sraphus@earth.sinica.edu.tw\)
-2. **yachuan Lai**\(yachuan@earth.sinica.edu.tw\)
+2. **Yachuan Lai**\(yachuan@earth.sinica.edu.tw\)
 
 
 
