@@ -1,7 +1,7 @@
 # Summary
 
 * [0.簡介](README.md)
-* 1.系統安裝
+* [1.系統安裝](1xi-tong-an-zhuang.md)
 * [2.環境設定](chapter1.md)
 * [3.波形瀏覽](a.md)
   * [1.讀取連續紀錄](a/1du-qu-lian-xu-ji-lu.md)
