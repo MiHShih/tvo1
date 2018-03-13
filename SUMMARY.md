@@ -7,10 +7,10 @@
   * [2.波形操作](a/2bo-xing-cao-zuo.md)
     * [2.1 視窗時間](a/2bo-xing-cao-zuo/21-shi-chuang-shi-jian.md)
     * [2.2 改變瀏覽震幅](a/2bo-xing-cao-zuo/22-gai-bian-liu-lan-zhen-fu.md)
-    * 2.3 移動時間軸
-    * 2.4 選擇測站，channel
-    * 2.5 顯示單一測站的所有channels
-    * 2.6 如何濾波
+    * [2.3 移動時間軸](a/2bo-xing-cao-zuo/23-yi-dong-shi-jian-zhou.md)
+    * [2.4 選擇測站，channel](a/2bo-xing-cao-zuo/24-xuan-ze-ce-zhan-ff0c-channel.md)
+    * [2.5 顯示單一測站的所有channels](a/2bo-xing-cao-zuo/25-xian-shi-dan-yi-ce-zhan-de-suo-you-channels.md)
+    * [2.6 如何濾波](a/2bo-xing-cao-zuo/26-ru-he-lv-bo.md)
 * [4.波相選取](aa.md)
 * 5.地震定位
 * 6.規模
