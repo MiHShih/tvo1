@@ -13,7 +13,7 @@
     * [2.6 如何濾波](a/2bo-xing-cao-zuo/26-ru-he-lv-bo.md)
 * [4.波相選取](aa.md)
 * [5.地震定位](5di-zhen-ding-wei.md)
-  * [5.1 Locate a local event using phases in S-file](5di-zhen-ding-wei/51-61-locate-a-local-event-using-phases-in-s-file.md)
+  * [5.1 ](5di-zhen-ding-wei/51-61-locate-a-local-event-using-phases-in-s-file.md)
 * 6.規模
 * 7.震源機制解
 * 8.輸出
