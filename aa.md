@@ -10,6 +10,10 @@
 
 其結果會儲存於 S-file, 完成後用'q'退出視窗。
 
+選擇波相可用選項：
+
+![](/assets/Screen Shot 2018-03-13 at 4.44.43 PM.png)
+
 開啟 S-file 檢查波相到時參數，可用't'列出S文件，如內容下圖：
 
 ![](/assets/Screen Shot 2018-03-13 at 3.45.25 PM.png)
