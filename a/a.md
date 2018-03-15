@@ -97,7 +97,14 @@ YM15 HH Z114 276T10W 3 10 41 26.000  100.00   1701                          4
 YM19 HH E114 276T10W 3 10 41 26.000  100.00   1701                          4
 YM19 HH N114 276T10W 3 10 41 26.000  100.00   1701                          4
 YM19 HH Z114 276T10W 3 10 41 26.000  100.00   1701                          4
-
+Output waveform file name is 2014-10-03-1041-26S.NSN___042
+S-file name:   /Users/shih/seismo/REA/TVE__/2014/10/03-1041-25L.S201410
+GO AHEAD (Y/N)
+y
+cp   2014-10-03-1041-26S.NSN___042 /Users/shih/seismo/WAV/2014-10-03-1041-26S.NSN___042
+File transferred to WAV **********
+Continue plot(y/n=default)
+y
 ```
 
 ```
