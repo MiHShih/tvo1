@@ -14,7 +14,7 @@
     * [3.2.4 選擇測站，channel](a/2bo-xing-cao-zuo/24-xuan-ze-ce-zhan-ff0c-channel.md)
     * [3.2.5 顯示單一測站的所有channels](a/2bo-xing-cao-zuo/25-xian-shi-dan-yi-ce-zhan-de-suo-you-channels.md)
     * [3.2.6 如何濾波](a/2bo-xing-cao-zuo/26-ru-he-lv-bo.md)
-  * [3.3 波形擷取](a/a.md)
+  * [3.3 擷取事件波形資料](a/a.md)
   * [3.4 波相到時選取](aa.md)
 * [4.地震定位](5di-zhen-ding-wei.md)
   * [5.1 利用 s-files 定位](5di-zhen-ding-wei/51-61-locate-a-local-event-using-phases-in-s-file.md)
