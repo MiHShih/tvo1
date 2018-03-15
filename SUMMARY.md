@@ -19,7 +19,6 @@
     * [3.4.1 開啟事件波形資料](aa/341-kai-qi-shi-jian-bo-xing-zi-liao.md)
     * [3.4.2 波相到時選取](aa.md)
 * [4.地震定位](5di-zhen-ding-wei.md)
-  * [4.1 利用 s-files 定位](5di-zhen-ding-wei/51-61-locate-a-local-event-using-phases-in-s-file.md)
 * 5.規模
 * [6.震源機制解](7zhen-yuan-ji-zhi-jie.md)
 * 7.輸出
