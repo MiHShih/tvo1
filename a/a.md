@@ -42,19 +42,44 @@ TVE
  No output, just register:  n
  No output, just ARC line:  a
  Output all channels:   enter
- 
+
 wavetool -start 20141003104126 -arc  -duration       17.1 -wav_out_file SEISAN -chansel extract.inp -cbase cbase.inp
 Number of archive channels defined          42
 Total duration:   17.0100021
 
                    42114 276 10 3 10 41 26.000 17.010
+                   
+YC03HH E    0.00    17.01 YC03HH N    0.00    17.01 YC03HH Z    0.00    17.01
+YC05HH E    0.00    17.01 YC05HH N    0.00    17.01 YC05HH Z    0.00    17.01
+YC11HH E    0.00    17.01 YC11HH N    0.00    17.01 YC11HH Z    0.00    17.01
+YC12HH E    0.00    17.01 YC12HH N    0.00    17.01 YC12HH Z    0.00    17.01
+YL05HH E    0.00    17.01 YL05HH N    0.00    17.01 YL05HH Z    0.00    17.01
+YM01HH E    0.00    17.01 YM01HH N    0.00    17.01 YM01HH Z    0.00    17.01
+YC03 HH E114 276T10W 3 10 41 26.000  100.00   1701                          4
+YC03 HH N114 276T10W 3 10 41 26.000  100.00   1701                          4
+YC03 HH Z114 276T10W 3 10 41 26.000  100.00   1701                          4
+YC05 HH E114 276T10W 3 10 41 26.000  100.00   1701                          4
+YC05 HH N114 276T10W 3 10 41 26.000  100.00   1701                          4
+YC05 HH Z114 276T10W 3 10 41 26.000  100.00   1701                          4
+YC11 HH E114 276T10W 3 10 41 26.000  100.00   1701                          4
+YC11 HH N114 276T10W 3 10 41 26.000  100.00   1701                          4
+YC11 HH Z114 276T10W 3 10 41 26.000  100.00   1701                          4
+YC12 HH E114 276T10W 3 10 41 26.000  100.00   1701                          4
+YC12 HH N114 276T10W 3 10 41 26.000  100.00   1701                          4
+YC12 HH Z114 276T10W 3 10 41 26.000  100.00   1701                          4
+YL05 HH E114 276T10W 3 10 41 26.000  100.00   1701                          4
+YL05 HH N114 276T10W 3 10 41 26.000  100.00   1701                          4
+YL05 HH Z114 276T10W 3 10 41 26.000  100.00   1701                          4
+YM01 HH E114 276T10W 3 10 41 26.000  100.00   1701                          4
+YM01 HH N114 276T10W 3 10 41 26.000  100.00   1701                          4
+YM01 HH Z114 276T10W 3 10 41 26.000  100.00   1701                          4
+YM06 HH E114 276T10W 3 10 41 26.000  100.00   1701                          4
+YM06 HH N114 276T10W 3 10 41 26.000  100.00   1701                          4
+YM06 HH Z114 276T10W 3 10 41 26.000  100.00   1701                          4
+
 ```
 
-wavetool -start 20141003104126 -arc  -duration       17.1 -wav\_out\_file SEISAN -chansel extract.inp -cbase cbase.inp
 
-Number of archive channels defined          42
-
-Total duration:   17.0100021
 
 ```
                             42114 276 10  3 10 41 26.000    17.010
