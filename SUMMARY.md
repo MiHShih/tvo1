@@ -19,7 +19,7 @@
     * [3.4.1 開啟事件波形資料](aa/341-kai-qi-shi-jian-bo-xing-zi-liao.md)
     * [3.4.2 波相到時選取](aa.md)
 * [4.地震定位](5di-zhen-ding-wei.md)
-* 5.規模
+* [5.規模](5gui-mo.md)
 * [6.震源機制解](7zhen-yuan-ji-zhi-jie.md)
 * 7.輸出
 
