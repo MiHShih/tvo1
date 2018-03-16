@@ -20,6 +20,10 @@
     * [3.4.2 波相到時選取](aa.md)
 * [4.地震定位](5di-zhen-ding-wei.md)
 * [5.規模](5gui-mo.md)
+  * [5.1 Local Magnitude](5gui-mo/51-local-magnitude.md)
+  * [5.2 Coda Magnitude](5gui-mo/52-coda-magnitude.md)
 * [6.震源機制解](7zhen-yuan-ji-zhi-jie.md)
+  * 6.1 FTPIT
+  * 6.2 FOCMEC
 * 7.輸出
 
