@@ -5,7 +5,7 @@
 * [1.系統安裝](1xi-tong-an-zhuang.md)
   * [1.1在 Windows 10 中重新編譯 Seisan](1.1.md)
   * [1.2 Linux \(Centos 7\)](12-linux-centos-7.md)
-  * 1.3 Mac OS X
+  * [1.3 Mac OS X](13-mac-os-x.md)
 * [2.環境設定](chapter1.md)
   * [2.1 建立資料庫](chapter1/21-jian-li-zi-liao-ku.md)
 * [3.波形瀏覽](a.md)
