@@ -3,7 +3,7 @@
 * [封面](README.md)
 * [0.簡介](0jian-jie.md)
 * [1.系統安裝](1xi-tong-an-zhuang.md)
-  * 1.1 在 Windows 10 中重新編譯 Seisan
+  * [1.1在 Windows 10 中重新編譯 Seisan](1.1.md)
 * [2.環境設定](chapter1.md)
   * [2.1 建立資料庫](chapter1/21-jian-li-zi-liao-ku.md)
 * [3.波形瀏覽](a.md)
@@ -18,13 +18,15 @@
   * [3.3 擷取事件波形資料](a/a.md)
   * [3.4 瀏覽事件波形](a/555.md)
     * [3.4.1 開啟事件波形資料](aa/341-kai-qi-shi-jian-bo-xing-zi-liao.md)
-    * [3.4.2 波相到時選取](aa.md)
+    * [3.4.2 波相到時選取\(I\)](aa.md)
 * [4.地震定位](5di-zhen-ding-wei.md)
+  * [4.1波相到時選取\(II\)](5di-zhen-ding-wei/41jing-zhun-ding-wei.md)
 * [5.規模](5gui-mo.md)
   * [5.1 Local Magnitude](5gui-mo/51-local-magnitude.md)
   * [5.2 Coda Magnitude](5gui-mo/52-coda-magnitude.md)
 * [6.震源機制解](7zhen-yuan-ji-zhi-jie.md)
-  * 6.1 FTPIT
-  * 6.2 FOCMEC
+  * [6.1 FTPIT](7zhen-yuan-ji-zhi-jie/61-ftpit.md)
+  * [6.2 FOCMEC](7zhen-yuan-ji-zhi-jie/62-focmec.md)
 * 7.輸出
+  * 8.SEISAN Explorer
 
