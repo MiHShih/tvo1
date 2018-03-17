@@ -35,5 +35,6 @@
   * [6.1 FTPIT](7zhen-yuan-ji-zhi-jie/61-ftpit.md)
   * [6.2 FOCMEC](7zhen-yuan-ji-zhi-jie/62-focmec.md)
 * 7.輸出
-  * 8.SEISAN Explorer
+* 8.SEISAN Explorer
+* 9.AUTO Jobs ...
 
