@@ -3,6 +3,7 @@
 * [封面](README.md)
 * [0.簡介](0jian-jie.md)
 * [1.系統安裝](1xi-tong-an-zhuang.md)
+  * 1.1 在 Windows 10 中重新編譯 Seisan
 * [2.環境設定](chapter1.md)
   * [2.1 建立資料庫](chapter1/21-jian-li-zi-liao-ku.md)
 * [3.波形瀏覽](a.md)
