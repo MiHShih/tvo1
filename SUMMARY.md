@@ -21,9 +21,9 @@
   * [3.4 瀏覽事件波形](a/555.md)
     * [3.4.1 開啟事件波形資料](aa/341-kai-qi-shi-jian-bo-xing-zi-liao.md)
     * [3.4.2 波相到時選取\(I\)](aa.md)
+    * [3.4.3 波相到時選取\(II\)](5di-zhen-ding-wei/41jing-zhun-ding-wei.md)
 * [4.地震定位](5di-zhen-ding-wei.md)
-  * [4.1波相到時選取\(II\)](5di-zhen-ding-wei/41jing-zhun-ding-wei.md)
-  * [4.2 Wadati diagram](5di-zhen-ding-wei/41jing-zhun-ding-wei/42-wadati-diagram.md)
+  * [4.1 Wadati diagram](5di-zhen-ding-wei/41jing-zhun-ding-wei/42-wadati-diagram.md)
   * [4.3 Travel time plot](5di-zhen-ding-wei/43-travel-time-plot.md)
   * [4.4 檢視波相到時](5di-zhen-ding-wei/44-jian-shi-bo-xiang-dao-shi.md)
   * 4.5 Error estimates of a local earthquake
