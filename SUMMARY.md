@@ -4,6 +4,8 @@
 * [0.簡介](0jian-jie.md)
 * [1.系統安裝](1xi-tong-an-zhuang.md)
   * [1.1在 Windows 10 中重新編譯 Seisan](1.1.md)
+  * 1.2 Linux \(Centos 7\)
+  * 1.3 Mac OS X
 * [2.環境設定](chapter1.md)
   * [2.1 建立資料庫](chapter1/21-jian-li-zi-liao-ku.md)
 * [3.波形瀏覽](a.md)
@@ -34,7 +36,9 @@
 * [6.震源機制解](7zhen-yuan-ji-zhi-jie.md)
   * [6.1 FTPIT](7zhen-yuan-ji-zhi-jie/61-ftpit.md)
   * [6.2 FOCMEC](7zhen-yuan-ji-zhi-jie/62-focmec.md)
-* 7.輸出
+* [7.輸出](7shu-chu.md)
+  * 7.1 catalogs
+  * 7.2 SAC format files
 * 8.SEISAN Explorer
 * 9.AUTO Jobs ...
 
