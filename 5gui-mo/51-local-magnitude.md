@@ -1,4 +1,4 @@
-# Local Magnitude
+# Local Magnitude, Ml
 
 The local magnitude is picked on a trace simulating the Wood-Anderson seismograph. Select station HYA in single trace mode. Pressing WA in menu and then selecting a window and the corrected trace \(amplitudes in nm ground motion\) will come up:
 

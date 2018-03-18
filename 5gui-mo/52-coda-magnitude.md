@@ -1,4 +1,4 @@
-# Coda Magnitude
+# Coda Magnitude, Mc
 
 The coda length is picked by pressing ‘c’ on keyboard at the location where the event trace disappears into the noise. A coda label will appear on the plot when ‘c’ is pressed. Coda magnitude should only be used if there is no calibration available. The content of the S-file is now:
 
