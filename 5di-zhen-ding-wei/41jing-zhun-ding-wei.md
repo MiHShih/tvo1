@@ -1,6 +1,4 @@
-# 波相到時選取\(II\) - single trace mode
+# 波相到時選取\(II\) - 單一波形檢視
 
-Picking phases with using multi-trace screen is often not very accurate since it is difficult to zoom on several traces at the same time. So phases are mostly picked in single trace mode or three-component mode \(see 5.5\), where it is also easy to pick S on horizontal components. The other option is to use scrolling with the arrow keys to continue to use multi trace mode, see 5.3. In all cases, it might also be an advantage to amplify the amplitude with the vertical arrows, see 5.2.
-
-
+同時檢視多條波形資料，先起波相到時往往不太準確。因為不容易同時放大多個波形資料。所以在實作上，多是以檢視所有波形資料搜尋地震事件，在以在單一波形資料或三分量模式中放大選擇波相到時\(3.2.4\)，在這些模式中，水平分量上很容易選擇S-arrival。另一種選擇是移動時間軸以多個波型資料檢視（3.2.3）。在所有情況下，用垂直箭頭放大振幅\(3.2.2\)也可能是一個有利的方法。
 
