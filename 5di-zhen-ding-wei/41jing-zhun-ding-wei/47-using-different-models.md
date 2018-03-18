@@ -1,4 +1,4 @@
-Using different models
+# 不同的速度模型
 
-SEISAN can use individual models for each event as indicated in the S-file in column 21 in the header line. Normally this field is blank indicating that the STATION0.HYP file is used. However, using e.g. the character x, file STATIONx.HYP will be used \(note that on Linux, upper and lower case is different but not on Windows\). It is also possible to locate local events with the global model.
+SEISAN可以針對不同的地震事件使用不同的速度模型，如S-file中的標題行第21列所示。通常這個字段為空，表示使用了STATION0.HYP文件。但是，如果使用字符x，則將使用文件STATIONx.HYP中的測站與速度模型。
 
