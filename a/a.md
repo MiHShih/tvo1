@@ -104,8 +104,7 @@ y                                                        <== 是否將波形檔�
 cp   2014-10-03-1041-26S.NSN___042 /Users/shih/seismo/WAV/2014-10-03-1041-26S.NSN___042
 File transferred to WAV **********
 Continue plot(y/n=default)
-y                                                        <== 是否繼續瀏覽波形 
-                                  
+y                                                        <== 是否繼續瀏覽波形
 ```
 
 
