@@ -30,10 +30,10 @@
   * [4.1 Wadati diagram](5di-zhen-ding-wei/41jing-zhun-ding-wei/42-wadati-diagram.md)
   * [4.3 Travel time plot](5di-zhen-ding-wei/43-travel-time-plot.md)
   * [4.4 檢視波相到時](5di-zhen-ding-wei/44-jian-shi-bo-xiang-dao-shi.md)
-  * 4.5 Error estimates of a local earthquake
+  * [4.5 Error estimates of a local earthquake](5di-zhen-ding-wei/41jing-zhun-ding-wei/45-error-estimates-of-a-local-earthquake.md)
   * [4.6 Rejecting outliers](5di-zhen-ding-wei/46-v.md)
-  * 4.7 Using different models
-  * 4.8 Map epicenter in a browser with Google Maps
+  * [4.7 Using different models](5di-zhen-ding-wei/41jing-zhun-ding-wei/47-using-different-models.md)
+  * [4.8 Map epicenter in a browser with Google Maps](5di-zhen-ding-wei/41jing-zhun-ding-wei/48-map-epicenter-in-a-browser-with-google-maps.md)
 * [5.規模](5gui-mo.md)
   * [5.1 Local Magnitude](5gui-mo/51-local-magnitude.md)
   * [5.2 Coda Magnitude](5gui-mo/52-coda-magnitude.md)
