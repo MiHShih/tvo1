@@ -10,51 +10,6 @@
 
 其結果會儲存於 S-file, 完成後用'q'退出視窗。
 
-
-
-### 開始定位前，必須確認的項目：
-
-* 選擇波相到時：
-
-```
-1 IP 
-2 EP 
-3 IPG 
-4 EPG 
-5 IPN 
-6 EPN 
-7 IS 
-8 ES
-9 ISG
-0 ESG + ISN / ESN
-```
-
-* 振幅最大值
-* 確認初動
-* 決定weight \(Quality\)
-
-The keys are defined as follows
-
-```
-Weight Linux Windows
- 1       !     ! 
- 2       @     " 
- 3       #     # 
- 4       $     $ 
- 5       %     % 
- 6       ^     & 
- 7       &     / 
- 8       *     ( 
- 9       (     ) 
- 0       )     =
-```
-
-* 確定尾波\(coda\)
-
-
-
-
-
 開啟 S-file 檢查波相到時參數，可用't'列出S文件，如內容下圖：
 
 ![](/assets/Screen Shot 2018-03-13 at 3.45.25 PM.png)
