@@ -1,4 +1,6 @@
-# Locate a local event using phases in S-file
+# 地震定位
+
+
 
 執行EEV後，選取event。使用 'l' 進行定位，可以得到下面訊息：
 
@@ -7,6 +9,4 @@
 資料更新過程訊息如下：
 
 ![](/assets/Screen Shot 2018-03-15 at 11.33.47 PM.png)![](/assets/Screen Shot 2018-03-15 at 11.34.04 PM.png)
-
-
 
