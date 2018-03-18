@@ -1,15 +1,15 @@
-# Zoom in single-trace mode
+# 單一波形檢視-視窗時間的縮放
 
-Zoom can be done in 2 ways. The first method is to zoom on the top trace and zoomed signal are shown on the bottom trace. The zoom clicks are doneinsidethe top plot:
+縮放可以通過兩種方式完成。第一種方法，在上方第一張圖選擇放大區域，放大的結果顯示在下方圖中。
 
 ![](/assets/seisan-tutorial-019.png)
 
-To un-zoom or re-plot the top trace again, pres ‘Plot’ or ‘r’ on keyboard.  
- The second method is to zoom on the top trace only. The first zoom click is inside frame with
+取消放大或重新顯示上方他變中波形，選擇選單中 'plot' \(或 'r'\)
 
-the plot and the second is outside:
+第二種方法是在上方圖中放大。第一次縮放點擊在框內，第二次則在框外。  
+
 
 ![](/assets/seisan-tutorial-020.png)
 
-Phases can be read on all plots in single-trace mode, however if a lower plot is shown, readings can only be done there. On the top trace several zooms can be done until the desired resolution is obtained.
+可以在單一波型下的所有圖中上選取波相到時，但是如果有顯示下方的圖，則只能在此處進行選取。
 
