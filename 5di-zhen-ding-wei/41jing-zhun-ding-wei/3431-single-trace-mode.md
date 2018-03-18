@@ -1,8 +1,6 @@
 # Single trace mode
 
-From the multi-trace mode, press ‘Togl’ \(or ‘t’\) on the menu and a single trace window comes up.
+在多個波形瀏覽的視窗下，按下選單上的'Togl'（或't'），就會出現一個新的窗口顯示單一波形。
 
-![](/assets/seisan-tutorial-018.png)
-
-This window has different options in the menu as compared to the multi-trace window and is meant to be used for operations taking place with a single trace. The phases defined on the keyboard are shown \(all also defined in multi-trace mode\). Some magnitude operations are also indicated, see 8. To go back to multi-travel mode, press Togl again.
+![](/assets/seisan-tutorial-018.png)與多波形瀏覽視窗相比，此窗口在選單中具有不同的選項，其主在用在單一波形的操作。要返回多波形瀏覽視窗，請再次按下Togl。
 
