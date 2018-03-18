@@ -38,8 +38,6 @@
   * [5.1 Local Magnitude](5gui-mo/51-local-magnitude.md)
   * [5.2 Coda Magnitude](5gui-mo/52-coda-magnitude.md)
 * [6.震源機制解](7zhen-yuan-ji-zhi-jie.md)
-  * [6.1 FTPIT](7zhen-yuan-ji-zhi-jie/61-ftpit.md)
-  * [6.2 FOCMEC](7zhen-yuan-ji-zhi-jie/62-focmec.md)
 * [7.輸出](7shu-chu.md)
   * 7.1 catalogs
   * 7.2 SAC format files
