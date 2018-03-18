@@ -41,6 +41,6 @@
 * [7.輸出](7shu-chu.md)
   * 7.1 catalogs
   * 7.2 SAC format files
-* 8.SEISAN Explorer
+* 8.SEISAN Explorer\(SE\)
 * 9.AUTO Jobs ...
 
