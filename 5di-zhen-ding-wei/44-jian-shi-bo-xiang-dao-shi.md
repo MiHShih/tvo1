@@ -1,8 +1,6 @@
-# Plotting and changing of polarities
+# 波相初動到時
 
-makes a plot of P-wave onset with polarity readings if available. The program provides an efficient way to plot and change polarities used to determine fault plane solution. Only vertical channels of data are shown. If changes are done, the program will save, if the user wants to, these back to the s-file. The plots can extend over several pages when there are many traces.
-
-PLOTPOLARITY can be started from EEV using command ’pol’
+在 eev 環境中，輸入 'pol' 產生如下方圖片之結果，可以詳細檢視每個結果的正確性。
 
 ![](/assets/Screen Shot 2018-03-18 at 9.23.14 PM.png)
 
