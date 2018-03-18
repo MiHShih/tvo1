@@ -7,3 +7,5 @@ This is a program to make Wadati diagrams and apparent velocity from a Nordic fi
 
 \(option ‘wad’ in EEV\).
 
+![](/assets/Screen Shot 2018-03-18 at 9.16.32 PM.png)
+

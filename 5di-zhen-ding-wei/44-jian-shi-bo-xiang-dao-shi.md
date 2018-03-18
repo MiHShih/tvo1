@@ -4,7 +4,5 @@ makes a plot of P-wave onset with polarity readings if available. The program pr
 
 PLOTPOLARITY can be started from EEV using command ’pol’
 
-![](/assets/Screen Shot 2018-03-18 at 2.45.45 PM.png)
-
-
+![](/assets/Screen Shot 2018-03-18 at 9.23.14 PM.png)
 
