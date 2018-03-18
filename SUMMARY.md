@@ -22,6 +22,8 @@
     * [3.4.1 開啟事件波形資料](aa/341-kai-qi-shi-jian-bo-xing-zi-liao.md)
     * [3.4.2 波相到時選取\(I\)](aa.md)
     * [3.4.3 波相到時選取\(II\)](5di-zhen-ding-wei/41jing-zhun-ding-wei.md)
+      * [3.4.3.1 Single trace mode](5di-zhen-ding-wei/41jing-zhun-ding-wei/3431-single-trace-mode.md)
+      * [3.4.3.2 Zoom in single-trace mode](5di-zhen-ding-wei/41jing-zhun-ding-wei/3432-zoom-in-single-trace-mode.md)
 * [4.地震定位](5di-zhen-ding-wei.md)
   * [4.1 Wadati diagram](5di-zhen-ding-wei/41jing-zhun-ding-wei/42-wadati-diagram.md)
   * [4.3 Travel time plot](5di-zhen-ding-wei/43-travel-time-plot.md)
