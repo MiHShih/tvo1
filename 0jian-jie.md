@@ -1,4 +1,4 @@
 # 簡介
 
-SEISAN
+就 SEISAN 啊！
 
