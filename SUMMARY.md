@@ -31,7 +31,7 @@
   * [4.2 波相初動到時](5di-zhen-ding-wei/44-jian-shi-bo-xiang-dao-shi.md)
   * [4.3 剔除異常值](5di-zhen-ding-wei/46-v.md)
   * [4.4 不同的速度模型](5di-zhen-ding-wei/41jing-zhun-ding-wei/47-using-different-models.md)
-  * 4.5 地圖檢視
+  * [4.5 地圖檢視](5di-zhen-ding-wei/45-di-tu-jian-shi.md)
 * [5.規模](5gui-mo.md)
   * [5.1 Local Magnitude, Ml](5gui-mo/51-local-magnitude.md)
   * [5.2 Coda Magnitude, Mc](5gui-mo/52-coda-magnitude.md)

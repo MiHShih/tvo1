@@ -1,6 +1,6 @@
 # Plotting of travel times
 
-在 eev 環境中，輸入 'ttplot' 產生  travel time plot。
+在 _**eev **_環境中，輸入_** 'ttplot'**_ 產生  travel time plot。
 
 可以顯示P-和S-arrival 的到時間的關係，可用於判別不適當的波相到時。理論到時亦會同時在圖上顯示。
 
