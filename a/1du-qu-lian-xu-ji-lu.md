@@ -1,8 +1,8 @@
 # 讀取SDS \(Seiscomp3 Data Structure\) 格式的連續紀錄。
 
-開啟terminal，輸入 mulplt。
+開啟**terminal**，輸入 _**mulplt**_。
 
-選取讀取波形資料來源，範例選取 arc 代表選取 SDS連續資料格式。
+選取讀取波形資料來源，範例選取 _**arc**_ 代表選取 SDS連續資料格式。
 
 ```
 [~/seisan/WOR]$ mulplt
@@ -20,7 +20,7 @@ arc                                                    <== 選取波形來源
   Number of archive channels with data:          42
 ```
 
-![](/assets/309384ce-a471-4a22-be5b-6796c9ce1f6c.png)選取要檢視的測站。欲檢視所有測站，選取 a ,在選取 o。
+![](/assets/309384ce-a471-4a22-be5b-6796c9ce1f6c.png)選取要檢視的測站。欲檢視所有測站，選取 _**a\(ALLC\)**_ ,在選取 _**o\(OK\)**_。
 
 ![](/assets/754897c7-b51e-4492-80e7-2cf5ae479aa5.png)快速瀏覽波形。
 
