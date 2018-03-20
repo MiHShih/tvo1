@@ -27,7 +27,7 @@ For this event it should be between 10 and 25 km. If not ok, the depth should be
 
 現在可以再eev中用指令'fo'。
 
-It is seen below that all polarities but one fits the solution and it is also seen that other solutions are possible.
+可得到下圖，圖中可以看出得到的解，但也可以看到還有其他得可能性存在。
 
 ![](/assets/seisan-tutorial-048.png)
 
