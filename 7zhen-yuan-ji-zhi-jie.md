@@ -31,11 +31,11 @@ For this event it should be between 10 and 25 km. If not ok, the depth should be
 
 ![](/assets/seisan-tutorial-048.png)
 
-It is possible to see which stations belong to which polarities, give command ‘f’.
+如果要檢視震源機制球上個測站分佈與初動方向時，可以給指令'f'。
 
 ![](/assets/seisan-tutorial-049.png)
 
-and the following plot comes up showing stations and polarities.
+如下圖中顯示出測站與初動方向。
 
 ![](/assets/seisan-tutorial-050.png)We will now try the FOCMEC program. This program will not automatically find a solution but show all the solutions possible within some given criteria. FOCMEC can also work with amplitude ratios but here only polarities will be used. Start with command ‘f’.
 
