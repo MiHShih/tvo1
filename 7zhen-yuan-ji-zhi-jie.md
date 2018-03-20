@@ -10,12 +10,18 @@ SEISAN有四種不同計算方法找出斷層面解。
 
 ![](/assets/seisan-tutorial-045.png)
 
-Before attempting a fault plane solution, make sure the depth is reasonable and not zero. For this event it should be between 10 and 25 km. If not ok, the depth should be fixed in the S-file by putting an ‘F’ in column 44 on header line.  
+For this event it should be between 10 and 25 km. If not ok, the depth should be fixed in the S-file by putting an ‘F’ in column 44 on header line.  
  First the FPFIT program is used. It will automatically find a solution in a least squares sense. It does not mean it is correct solution but the best with the available data. Use command ‘fp’.
+
+在解算震源機制解前，必須先確定其震源深度不為 0 或 負值。如範例之震源深度應在 10 - 25 km之間。若可確認深度，可以在 S-file 的 header 的第 44個欄位，加上’Ｆ‘固定其震源深度進行解算。首先，用FPFIT以最小平方法的概念求取震源機制解，。其解不代表正確震源機制，但為現有資料所能求得之最佳解。
+
+在eev環境中執行'fp'。
 
 ![](/assets/seisan-tutorial-046.png)
 
-In this case multiple solutions are found and the first is saved in the S-file. Below is part of S- file with the solution.
+在上圖中，找到了多個解並將第一個解存進S文件中。
+
+下面是儲存在S-file中的一部分。
 
 ![](/assets/seisan-tutorial-047.png)
 
