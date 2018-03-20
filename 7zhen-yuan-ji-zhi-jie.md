@@ -1,8 +1,8 @@
-# 震源機制解\(Fault plane solution\)
+# 斷層面解\(Fault plane solution\)
 
 SEISAN有四種不同計算方法找出斷層面解。
 
-下面介紹用測站的P波波相之初動方向，來確定震源機制解。可選用的方法有FOCMEC和FPFIT兩種。
+下面介紹用測站的P波波相之初動方向，來確定斷層面解。可選用的方法有FOCMEC和FPFIT兩種。
 
 首先必須確定測站在Z channel上的初動方向（如3.4.3.3\)，若波形之上下動不清楚，可以放大波形震幅確定初動方向（如3.2.2）。
 
@@ -10,10 +10,7 @@ SEISAN有四種不同計算方法找出斷層面解。
 
 ![](/assets/seisan-tutorial-045.png)
 
-For this event it should be between 10 and 25 km. If not ok, the depth should be fixed in the S-file by putting an ‘F’ in column 44 on header line.  
- First the FPFIT program is used. It will automatically find a solution in a least squares sense. It does not mean it is correct solution but the best with the available data. Use command ‘fp’.
-
-在解算震源機制解前，必須先確定其震源深度不為 0 或 負值。如範例之震源深度應在 10 - 25 km之間。若可確認深度，可以在 S-file 的 header 的第 44個欄位，加上’Ｆ‘固定其震源深度進行解算。首先，用FPFIT以最小平方法的概念求取震源機制解，。其解不代表正確震源機制，但為現有資料所能求得之最佳解。
+在求斷層面解前，必須先確定其震源深度不為 0 或 負值。如範例之震源深度應在 10 - 25 km之間。若可確認深度，可以在 S-file 的 header 的第 44個欄位，加上’Ｆ‘固定其震源深度進行解算。首先，用FPFIT以最小平方法的概念求取斷層面解。但其解並不代表其正確的斷層面解，但為現有資料所能求得之最佳解。
 
 在eev環境中執行'fp'。
 
@@ -31,22 +28,29 @@ For this event it should be between 10 and 25 km. If not ok, the depth should be
 
 ![](/assets/seisan-tutorial-048.png)
 
-如果要檢視震源機制球上個測站分佈與初動方向時，可以給指令'f'。
+如果要檢視震源機制球上個測站分佈與初動方向時，可以在eev下給指令'f'。再選擇 '-1'，畫圖時會將測站訊息加上，如下圖：
 
 ![](/assets/seisan-tutorial-049.png)
 
 如下圖中顯示出測站與初動方向。
 
-![](/assets/seisan-tutorial-050.png)We will now try the FOCMEC program. This program will not automatically find a solution but show all the solutions possible within some given criteria. FOCMEC can also work with amplitude ratios but here only polarities will be used. Start with command ‘f’.
+![](/assets/seisan-tutorial-050.png)接下來我們要用FOCMEC 求斷層面解，這個方法會列出所有可能的解，並不會自動給出最佳解。此一方法還可以利用P波跟S波震幅的比值來求解。但下列範例僅使用Ｐ波出動方向來求解。
+
+在eev環境中下指令'f'。在選擇'4'，就會使用focmec求出斷層面解。
 
 ![](/assets/seisan-tutorial-051.png)
 
-and this follows
+接下來，如下圖輸入參數。
 
 ![](/assets/seisan-tutorial-052.png)
 
 The search is limited to a requirement that all polarities are ok, however, often there are no solutions without allowing some bad polarities. The search is in a 5 deg grid, allowing a finer grid will find more solutions and a courser grid fewer.  
  The solutions found are seen below. It is seen that the majority of the solutions are similar to the FPFIT solution. However searching with a smaller grid size will give hundreds of solutions so obviously the fault plane solution is not very constrained.
+
+  
+求斷層面解時基本要求為若要求所有極性都是 ok 的, 但是, 往往沒有解決方案, 而不允許一些壞的極性。
+
+在搜索僅限於所有極性均可用的要求，但是，如果不允許某些不良極性，通常沒有解決方案。搜索是在5度的網格中，允許更精細的網格會找到更多的解決方案和更少的網格。找到的解決方案如下所示。可以看出，大部分解決方案與FPFIT解決方案相似。然而，使用更小的網格尺寸進行搜索將顯示出數百個解，所以顯然故障平面解決方案不是非常有限。
 
 ![](/assets/seisan-tutorial-053.png)
 
