@@ -25,7 +25,9 @@ For this event it should be between 10 and 25 km. If not ok, the depth should be
 
 ![](/assets/seisan-tutorial-047.png)
 
-We can now plot the solution with command ‘fo’. It is seen below that all polarities but one fits the solution and it is also seen that other solutions are possible.
+現在可以再eev中用指令'fo'。
+
+It is seen below that all polarities but one fits the solution and it is also seen that other solutions are possible.
 
 ![](/assets/seisan-tutorial-048.png)
 
