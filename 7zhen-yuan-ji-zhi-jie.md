@@ -1,11 +1,12 @@
-# Fault plane solution
+# 震源機制解\(Fault plane solution\)
 
 SEISAN有四種不同計算方法找出斷層面解。
 
-下面，示範兩種常用的方法FOCMEC和FPFIT。
+下面介紹用測站的P波波相之初動方向，來確定震源機制解。可選用的方法有FOCMEC和FPFIT兩種。
 
-SEISAN has 4 different programs for fault plane solutions, two of which also work with amplitudes. Here we will demonstrate two popular programs with polarities, FOCMEC and FPFIT.  
- Select the local event and pick all the possible polarities on the Z-channels \(select as shown in 5.4\), see 7.4.3 how this is done. Some traces are not so clear so use a lot of zoom and maybe amplify trace amplitudes \(see 5.2\). In the example below for station ASK, Z-component, both zoom and amplification has been used to clearly see the polarity.
+首先必須確定測站在Z channel上的初動方向（如3.4.3.3\)，若波形之上下動不清楚，可以放大波形震幅確定初動方向（如3.2.2）。
+
+在下面的圖例中，ASK 測站的 Z channel，放大時間視窗與震幅後，可以明確地判別出初動方向。
 
 ![](/assets/seisan-tutorial-045.png)
 
