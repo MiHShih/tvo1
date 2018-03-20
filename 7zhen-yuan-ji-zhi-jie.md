@@ -44,28 +44,24 @@ SEISAN有四種不同計算方法找出斷層面解。
 
 ![](/assets/seisan-tutorial-052.png)
 
-The search is limited to a requirement that all polarities are ok, however, often there are no solutions without allowing some bad polarities. The search is in a 5 deg grid, allowing a finer grid will find more solutions and a courser grid fewer.  
- The solutions found are seen below. It is seen that the majority of the solutions are similar to the FPFIT solution. However searching with a smaller grid size will give hundreds of solutions so obviously the fault plane solution is not very constrained.
+在求解我們可以選擇接受異常初動方向的個數，以利於找尋合理的斷層面解。搜尋的角度也可以自由選擇，例如每五度計算一次，可以得到較精細數量較多的解，角度加大時計算速度較快，但得到的解就較為粗略。
 
-  
-求斷層面解時基本要求為若要求所有極性都是 ok 的, 但是, 往往沒有解決方案, 而不允許一些壞的極性。
-
-在搜索僅限於所有極性均可用的要求，但是，如果不允許某些不良極性，通常沒有解決方案。搜索是在5度的網格中，允許更精細的網格會找到更多的解決方案和更少的網格。找到的解決方案如下所示。可以看出，大部分解決方案與FPFIT解決方案相似。然而，使用更小的網格尺寸進行搜索將顯示出數百個解，所以顯然故障平面解決方案不是非常有限。
+得到的解如下圖所示。可以看出，大部分解決方案與FPFIT解決方案相似。然而，使用更小的角度進行搜索將顯示出數百個解。
 
 ![](/assets/seisan-tutorial-053.png)
 
-One of the solutions can be selected by moving the cursor to the corresponding P or T and pressing ‘p’ or ‘t’. The solution should then be saved:
+將游標移至相應的P或T並按'p'或't'即可選擇保存該該解至S-file中。
 
 ![](/assets/seisan-tutorial-054.png)
 
-and there are now 2 fault plane solutions in S-file, indicated by the F-lines:
+在S-file中有2個斷層面解（行尾用F表示）：
 
 ![](/assets/seisan-tutorial-055.png)
 
-The 2 solutions can be plotted with command ‘fo’ as before and we get:
+兩個解可以用'fo'同時畫出來，結果如下圖所示：
 
 ![](/assets/seisan-tutorial-056.png)
 
-It is seen that the two solutions are similar but FOCMEC also had very different solutions. It is always useful to compare solutions from different programs.  
- Doing the exercise yourself might result in quite different solutions since some polarities are uncertain.
+圖中可以看出，這兩種方法求出來的斷層面解是相似的，但FOCMEC也存在非常不同的解。此一方法，方便比較不同程序所得到的斷層面解。  
+
 

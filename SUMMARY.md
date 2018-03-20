@@ -37,8 +37,8 @@
   * [5.2 Coda Magnitude, Mc](5gui-mo/52-coda-magnitude.md)
 * [6.震源機制解](7zhen-yuan-ji-zhi-jie.md)
 * [7.輸出](7shu-chu.md)
-  * 7.1 catalogs
-  * 7.2 SAC format files
+  * [7.1 catalogs](7shu-chu/71-catalogs.md)
+  * [7.2 SAC format files](7shu-chu/72-sac-format-files.md)
 * [8.SEISAN Explorer\(SE\)](8seisan-explorerse.md)
 * 9.AUTO Jobs ...
 
