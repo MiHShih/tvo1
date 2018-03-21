@@ -42,5 +42,5 @@
 * [8.SEISAN Explorer\(SE\)](8seisan-explorerse.md)
 * 9.AUTO Jobs ...
 * [FAQ](faq.md)
-  * [檢視 S-file 內容](faq/jian-shi-s-file-nei-rong.md)
+  * [A. 檢視 S-file 內容](faq/jian-shi-s-file-nei-rong.md)
 
