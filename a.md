@@ -100,7 +100,6 @@ TAB: NextW: Next window if multiple windows
 ,: FixF  Fix filter. If pressed aftrer selecting as filter, the filter
  remains fixed until pressing ’,’ again.
 ’: Variable filter also with number of poles
-
 ```
 
 
