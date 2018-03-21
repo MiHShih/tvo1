@@ -43,5 +43,5 @@
 * 9.AUTO Jobs ...
 * [FAQ](faq.md)
   * [A. 檢視 S-file 內容](faq/jian-shi-s-file-nei-rong.md)
-  * B. MAP files
+  * [B. MAP files](faq/b-map-files.md)
 
