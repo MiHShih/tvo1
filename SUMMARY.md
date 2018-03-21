@@ -41,4 +41,6 @@
   * [7.2 SAC format files](7shu-chu/72-sac-format-files.md)
 * [8.SEISAN Explorer\(SE\)](8seisan-explorerse.md)
 * 9.AUTO Jobs ...
+* [FAQ](faq.md)
+  * [檢視 S-file 內容](faq/jian-shi-s-file-nei-rong.md)
 
