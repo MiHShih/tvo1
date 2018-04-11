@@ -8,6 +8,10 @@
   * [1.3 Mac OS X](13-mac-os-x.md)
 * [2.環境設定](chapter1.md)
   * [2.1 建立資料庫](chapter1/21-jian-li-zi-liao-ku.md)
+  * [2.2 參數檔設定](chapter1/22-can-shu-dang-she-ding.md)
+    * [2.2.1 SEISAN.DEF](chapter1/22-can-shu-dang-she-ding/222-seisandef.md)
+    * 2.2.2 STATION0.HYP
+    * 2.2.3 MULPLT.DEF
 * [3.波形瀏覽](a.md)
   * [3.1 讀取連續紀錄](a/1du-qu-lian-xu-ji-lu.md)
   * [3.2 波形操作](a/2bo-xing-cao-zuo.md)
