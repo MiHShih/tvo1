@@ -44,7 +44,12 @@
   * [7.1 catalogs](7shu-chu/71-catalogs.md)
   * [7.2 SAC format files](7shu-chu/72-sac-format-files.md)
 * [8.SEISAN Explorer\(SE\)](8seisan-explorerse.md)
-* 9.AUTO Jobs ...
+* [9.AUTO Jobs ...](9auto-jobs.md)
+  * [9.1 Detection of events from continuous data](9auto-jobs/91-detection-of-events-from-continuous-data.md)
+  * [9.2 Auto pick phases and amplitudes](9auto-jobs/92-auto-pick-phases-and-amplitudes.md)
+    * [9.2.1 AUTOPICK](9auto-jobs/92-auto-pick-phases-and-amplitudes/921-autopick.md)
+    * [9.2.2 AUTOPHASE](9auto-jobs/92-auto-pick-phases-and-amplitudes/922-autophase.md)
+  * [9.3 AUTOMAG](9auto-jobs/93-automag.md)
 * [FAQ](faq.md)
   * [A. 檢視 S-file 內容](faq/jian-shi-s-file-nei-rong.md)
   * [B. MAP files](faq/b-map-files.md)
