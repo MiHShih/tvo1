@@ -1,6 +1,4 @@
-The program CONDET can be used to detect events in one or more continuous databases, either a SEISAN continous data base or an archive \(SeisComp or BUD types\). It supports three detection algorithms: 1\) a standard square STA/LTA, 2\) the algorithm suggested by Carl Johnson \([http://www.isti2.com/ew/ovr/carltrig\_ovr.html\](http://www.isti2.com/ew/ovr/carltrig_ovr.html\)\), and 3\) a cross-correlation detector \(which will not be used here\). CONDET can do two things, first to search for triggers on each specified station, and second search for a number of triggers from a given number of stations in a time window \(this requires the first step has been done\).
-
-
+The program CONDET can be used to detect events in one or more continuous databases, either a SEISAN continous data base or an archive \(SeisComp or BUD types\). It supports three detection algorithms: 1\) a standard square STA/LTA, 2\) the algorithm suggested by Carl Johnson \([http://www.isti2.com/ew/ovr/carltrig\_ovr.html](http://www.isti2.com/ew/ovr/carltrig_ovr.html%29%29, and 3%29 a cross-correlation detector %28which will not be used here%29. CONDET can do two things, first to search for triggers on each specified station, and second search for a number of triggers from a given number of stations in a time window %28this requires the first step has been done\)\).
 
 ## Using an archive continuous data base
 
