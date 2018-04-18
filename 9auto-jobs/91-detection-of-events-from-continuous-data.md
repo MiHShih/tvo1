@@ -16,9 +16,11 @@ CONDET 可用於搜尋一個或多個連續數據庫中的地震事件，可以�
 
 * 進入 WOR/TVO
 
-* Copy parameter file condet.par from DAT to WOR/TVO. Start by checking the CONDET input file ‘condet.par’, use SEISAN manual for explanation. Parameters to change in the exercise are the detection algorithm, the respective detection parameters, the filters and the network detection settings.
+* 將參數文件 condet.par 從 DAT 複製到 WOR/TVO。首先檢查 CONDET 輸入文件 'condet.par'。修改的參數中所選用的檢測算法及其參數，濾波器和網路檢測設定。
 
 * Now run the program by typing ‘condet’, it automatically uses condet.par as input file. The program runs one station after the other. The main output files are ‘condet.out’ listing all the trigger times, ‘extract.batch’ – a script file to extract the data using the program WAVETOOL, and ‘condet.trace’ which lists the data intervals that were read. Check all these files.
+
+* 使用 condet時，會自動讀取condet.par。主輸出文件是列出所有觸發時間的'condet.out'，'extract.batch' - 使用程序WAVETOOL提取數據的腳本文件，以及列出讀取的數據間隔的'condet.trace'。 檢查所有這些文件。
 
 
 
