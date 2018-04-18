@@ -4,19 +4,15 @@ CONDET 可用於搜尋一個或多個連續數據庫中的地震事件，可以�
 
 該程序分兩步驟，首先在單一channel 上運行檢測器，其次檢測超過最小數量站的事件。 可以應用在臨時地震網的數據（例如，餘震監測，其中連續記錄而沒有事件檢測）以及用於即時資料參數的調整與測試。
 
-程式中有三種不同的檢測方法: 
+程式中有三種不同的檢測方法:
 
-1\) standard squared STA/LTA, 
+1\) standard squared STA/LTA,
 
 2\) Carl John- son’s detector.
 
 3\) correlation with master event.
 
-執行方式如下，
-
-The archive data base \(SeisComp or BUD\) is in directory archive in WOR so work must be done in WOR. The archive consist of 1 day of LP data from the Danish network. This exercise follow the same steps as the previous ones so you can do the same checks, for details see previous exercise. The main difference is that the data is long period to so trigger parameters are different. ...
-
-利用 Seiscomp 所建立波形資料庫 \(SDS\)，進行測試。
+執行方式如下，利用 Seiscomp 所建立波形資料庫 \(SDS\)，進行測試。
 
 * Go to WOR/TVO
 
