@@ -1,25 +1,55 @@
-SEISAN.DEF lists general parameters used in SEISAN. Note that the parameters must be aligned with the ‘Par 1’ and ‘Par 2’ markers since the file is read by Fortran, which reads a fixed format statement. There are several parameters in SEISAN.DEF that should be modified for use in a particular observatory.
+SEISAN.DEF 中定義了SEISAN中使用的環境參數。 請注意，參數必須與'Par 1'和'Par 2'標記對齊，因為Fortran讀取該文件，是讀取固定格式。
+
+SEISAN.DEF中有幾個參數必須依照不同需求與資料庫修改。
+
+需要修改的參數是：
+
+_**WAVEFORM\_BASE **_: 資料庫名稱，本手冊使用 _**TVE 。**_
+
+_**ARC\_ARCHIVE **_: SDS 之檔案位置  
+
+_**ARC\_CHAN**_ : 定義使用測站與channel
+
+_**COPY\_WAVE DIR **_: 資料庫的名稱，供註冊地震事件時使用，本手冊使用 _**TVE**_。
+
+_**MERGE\_WAVEFORM **_: 用於在註冊地震事件時，命名所使用的network名稱。
+
+_**MAP\_LAT\_BORDER , MAP\_LON\_BORDER**_: 在 EEV 中的 MAP指令 使用，繪製當前地震周圍的地圖。 這兩個參數決定從震央到地圖邊緣的距離。
+
+_**EPIMAP\_STATIONS**_: 決定是否繪製測站，‘Ａ’將會畫出測站。
+
+_**EPIMAP\_MAP\_FILE**_: 地圖名稱。
 
 
 
-The parameters to be modified are:  
- 
+Example 1
 
-WAVEFORM\_BASE: the name of your event database; here, CVE.
+```
 
-CONT\_BASE: the name\(s\) of your continuous database\(s\) to be searched for trace data when starting MULPLT in continuous \(CONT\) mode. In our example, it is CVC.
+KEYWORD............Comments.............Par 1.....Par 2
+WAVEFORM_BASE      Waveform base name   BAYAN
+#
+#   seisan cont dat abase
+#
+CONT_BASE          REA continuous base  RUND
+CONT_BEFORE        start min before     20.
+CONT_AFTER         start min after      1.
+#
+# position in file name where year yyyy and month mm starts
+#
+CONT_YEAR_MONTH_POSTION_FILE
+#
+# archive
+#
 
-COPY\_WAVE DIR: the name of your event database, for use when registering events. Again here, CVE
+# TVO
+ARC_CHAN                                YM01 HHETW
+ARC_CHAN                                YM01 HHNTW
+ARC_CHAN                                YM01 HHZTW
 
-MERGE\_WAVEFORM: the 2-character network ID used to name the waveforms when registering. Here, CC.
+ARC_ARCHIVE                             /Users/shih/archive
 
-CONT\_BEFORE: when using MULPLT in CONT mode, the number of minutes of waveform data to be read into memory before the required start time. CONT\_BEFORE must be at least as long as the waveform file. Here, 10.
-
-CONT\_AFTER: when using MULPLT in CONT mode, the number of minutes of waveform data to be read into memory after the data that is plotted. Here, 10.
-
-MAP\_LAT\_BORDER: , MAP\_LON\_BORDER: Used with MAP in EEV, which plots a map around the current epicenter. These 2 parameters give the distance in degrees from the epicenter to the edges of the map
-
-EPIMAP\_STATIONS: Indicator for EPIMAP to plot stations, ‘A’ will plot the stations. EPIMAP\_MAP\_FILE: the names of the maps to use with MAP option in EEV.
+```
 
 
 
