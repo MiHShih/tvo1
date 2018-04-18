@@ -46,7 +46,7 @@
 * [6.震源機制解](7zhen-yuan-ji-zhi-jie.md)
 * [7.輸出](7shu-chu.md)
 * [8.SEISAN Explorer\(SE\)](8seisan-explorerse.md)
-* [9.AUTO Jobs ...](9auto-jobs.md)
+* [9.Automatic routines in SEISAN](9auto-jobs.md)
   * [9.1 Detection of events from continuous data](9auto-jobs/91-detection-of-events-from-continuous-data.md)
   * [9.2 Auto pick phases and amplitudes](9auto-jobs/92-auto-pick-phases-and-amplitudes.md)
     * [9.2.1 AUTOPICK](9auto-jobs/92-auto-pick-phases-and-amplitudes/921-autopick.md)
