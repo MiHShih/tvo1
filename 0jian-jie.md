@@ -2,14 +2,17 @@
 
 ## [http://seisan.info](http://seisan.info)
 
-These notes are intended to augment the SEISAN tutorial and manual with techniques specific to processing continuous files of volcano seismic data derived from an Earthworm continuous record module.
+本手冊主旨在訓練TVO人員使用SEISAN之教程和手冊，用以處理 seiscomp3 所記錄儲存之火山地震的連續波形資料 \(miniseed in SDS\)。
 
-Broadly, that process is to
+總體來說，資料之處理流程為，
 
-1\) create and regularly add data from Earthworm continuous waveform files to a SEISAN database of continuous data  
- 2\) Scroll through those data, identifying events, characterizing them by volcanic seismic event type by their appearance and registering them into an event database as event files \(SEISAN S-files\).  
- 3\) Processing events in that event database to determine phase arrivals, azimuths, spectral characteristics, particle motion, and amplitudes of ground motion to determine locations, magnitudes, and energy release.  
- 4\) Catalog time-series of numbers and energy-release of different types of volcano seismic event type.
+1. 定期瀏覽連續紀錄資料，確認地震事件、類型，並儲存至 SEISAN 資料庫中 \(SEISAN S-files\)。
+2. 對挑選出來的事件進行波相到時的挑選、地震定位、計算規模大小與震源機制解等。
+3. 對挑選出來的不同地震事件種類，建立地震目錄。
 
 In this manual steps 1 and 2 are organized under the section Routine Processing 1: registration. Steps 3 and 4 are organized under the section Routine Processing 2: EEV.
+
+
+
+
 
