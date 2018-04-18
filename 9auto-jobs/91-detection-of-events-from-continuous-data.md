@@ -14,7 +14,7 @@ CONDET 可用於搜尋一個或多個連續數據庫中的地震事件，可以�
 
 執行方式如下，利用 Seiscomp 所建立波形資料庫 \(SDS\)，進行測試。
 
-* Go to WOR/TVO
+* 進入 WOR/TVO
 
 * Copy parameter file condet.par from DAT to WOR/TVO. Start by checking the CONDET input file ‘condet.par’, use SEISAN manual for explanation. Parameters to change in the exercise are the detection algorithm, the respective detection parameters, the filters and the network detection settings.
 
