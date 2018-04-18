@@ -1,4 +1,4 @@
-STATION0.HYP 列出了定位程式HYP中使用的參數。 
+STATION0.HYP 列出了定位程式HYP中使用的參數。
 
 參數檔中有數個的參數需要修改有關於：
 
@@ -9,8 +9,6 @@ STATION0.HYP 列出了定位程式HYP中使用的參數。
 * 一維速度模型
 
 * network code
-
-
 
 #### **利用尾波計算規模**
 
@@ -25,39 +23,39 @@ where
 
 The default SEISAN values for the coda magnitude parameters are those determined by Richter for Northern California.
 
-          Default values: 7: 0.087, 
+```
+      Default values: 7: 0.087, 
 
-                                     8: 2.0,
+                                 8: 2.0,
 
-                                     9: 0.0035 \(Lee, 1972\)
+                                 9: 0.0035 \(Lee, 1972\)
+```
 
 So default MAG = 0.087 +2.0 \* LOG\(T\) + 0.0035 \* DELTA
 
-Values for these parameters are often different at volcanoes. 
+Values for these parameters are often different at volcanoes.
 
 Here, we use the coda magnitude parameters determined for Mt. St. Helens, or
 
-  
-                   RESET TEST\(07\)=-2.46
+```
+               RESET TEST\(07\)=-2.46
 
-                   RESET TEST\(08\)=2.82
+               RESET TEST\(08\)=2.82
 
-                   RESET TEST\(09\)=0.00
-
-
+               RESET TEST\(09\)=0.00
+```
 
 #### **測站位置：**
 
 Follow the format of the examples in STATION0.HYP for station location.
 
-依照範例中格式，將測站座標加入檔案中。  
- 
+依照範例中格式，將測站座標加入檔案中。
 
 #### 一維速度模型：
 
-速度模型格式參照下方範例，範例為 Mt. St. Helens. 所使用的速度模型。 
+速度模型格式參照下方範例，範例為 Mt. St. Helens. 所使用的速度模型。
 
-![](/assets/Screen Shot 2018-04-18 at 4.44.17 PM.png)
+![](/assets/Screen Shot 2018-04-18 at 4.56.03 PM.png)
 
 'N' 代表 Moho 面深度。
 
@@ -65,9 +63,7 @@ Follow the format of the examples in STATION0.HYP for station location.
 
 S/P velocity radio in the example below is given by the value 1.74 in the line:
 
-_**33.0 1000.3300. 1.74 15 1.0 00.5**_ 
-
-
+_**33.0 1000.3300. 1.74 15 1.0 00.5**_
 
 ```
 RSET TEST(02)=500.0
