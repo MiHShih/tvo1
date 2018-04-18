@@ -1,66 +1,73 @@
-STATION0.HYP lists parameters used in the location program HYP. There are many important parameters here to modify, including parameters for the
+STATION0.HYP 列出了定位程式HYP中使用的參數。 
 
-* coda magnitude calculation,
+參數檔中有數個的參數需要修改有關於：
 
-* station locations,
+* coda magnitude 的計算,
 
-* velocity model and
+* 測站位置,
 
-* network code.
+* 一維速度模型
 
-Coda duration magnitude parameters TEST\(7\), TEST\(8\) and TEST\(9\):
+* network code
 
-These parameters are the duration magnitude coefficients used for calculating the coda magnitude, as
 
-MAG = TEST\(7\) +TEST\(8\) \* LOG\(T\) + TEST\(9\) \* DELTA where
 
-T is the coda length in seconds,  
- DELTA is the hypocentral distance in km.
+#### **利用尾波計算規模**
+
+所使用到到參數 **TEST\(7\), TEST\(8\) and TEST\(9\)**:
+
+**MAG = TEST\(7\) +TEST\(8\) \* LOG\(T\) + TEST\(9\) \* DELTA **
+
+where
+
+**T** is the coda length in seconds,  
+**DELTA** is the hypocentral distance in km.
 
 The default SEISAN values for the coda magnitude parameters are those determined by Richter for Northern California.
 
-Default values: 7: 0.087, 8: 2.0,  
- 9: 0.0035 \(Lee, 1972\)
+          Default values: 7: 0.087, 
+
+                                     8: 2.0,
+
+                                     9: 0.0035 \(Lee, 1972\)
 
 So default MAG = 0.087 +2.0 \* LOG\(T\) + 0.0035 \* DELTA
 
-Values for these parameters are often different at volcanoes. Here, we use the coda magnitude parameters determined for Mt. St. Helens, or  
- RESET TEST\(07\)=-2.46  
- RESET TEST\(08\)=2.82
+Values for these parameters are often different at volcanoes. 
 
-RESET TEST\(09\)=0.00
+Here, we use the coda magnitude parameters determined for Mt. St. Helens, or
 
-See the section below on Mc for more information.  
-See the document “Processing Seismic Data” for more information on determining Mc parameters for your volcano.
+  
+                   RESET TEST\(07\)=-2.46
 
-Routine processing in Seisan for BPPTK; event location
+                   RESET TEST\(08\)=2.82
 
-Station locations:  
- Follow the format of the examples in STATION0.HYP for station location.  
- Velocity structure:  
- The velocity structure is given as shown in this example, from the example file below:
+                   RESET TEST\(09\)=0.00
 
-This velocity structure is used at Mt. St. Helens. Use this, or your own velocity structure, following this format. The letter ‘N’ indicates the moho.
 
-S/P velocity ratio
+
+#### **測站位置：**
+
+Follow the format of the examples in STATION0.HYP for station location.
+
+依照範例中格式，將測站座標加入檔案中。  
+ 
+
+#### 一維速度模型：
+
+速度模型格式參照下方範例，範例為 Mt. St. Helens. 所使用的速度模型。 
+
+![](/assets/Screen Shot 2018-04-18 at 4.44.17 PM.png)
+
+'N' 代表 Moho 面深度。
+
+#### S/P velocity ratio：
 
 S/P velocity radio in the example below is given by the value 1.74 in the line:
 
-33.0 1000.3300. 1.74 15 1.0 00.5
+_**33.0 1000.3300. 1.74 15 1.0 00.5**_ 
 
-1. 6 5. 10 6.0 6.2 6.6 6.8 7.1 7.8
 
-2. 0 2. 2 3. 4 6. 0
-
-3. 0  
-   18. 0  
-   34. 0 N 43. 0
-
-16
-
-Use this value or your own. Network code:
-
-In the example below, CC is the network code used when a location is reported in the event’s s-file. Replace it with your own 2-digit network code.
 
 ```
 RSET TEST(02)=500.0
