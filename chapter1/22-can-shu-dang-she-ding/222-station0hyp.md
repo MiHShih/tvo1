@@ -1,6 +1,4 @@
-
-
-STATION0.HYPlists parameters used in the location program HYP. There are many important parameters here to modify, including parameters for the
+STATION0.HYP lists parameters used in the location program HYP. There are many important parameters here to modify, including parameters for the
 
 * coda magnitude calculation,
 
@@ -8,7 +6,7 @@ STATION0.HYPlists parameters used in the location program HYP. There are many im
 
 * velocity model and
 
-* network code.  
+* network code.
 
 Coda duration magnitude parameters TEST\(7\), TEST\(8\) and TEST\(9\):
 
@@ -50,21 +48,19 @@ S/P velocity radio in the example below is given by the value 1.74 in the line:
 
 33.0 1000.3300. 1.74 15 1.0 00.5
 
-4. 6 5. 10 6.0 6.2 6.6 6.8 7.1 7.8
+1. 6 5. 10 6.0 6.2 6.6 6.8 7.1 7.8
 
-0. 0 2. 2 3. 4 6. 0
+2. 0 2. 2 3. 4 6. 0
 
-10. 0  
- 18. 0  
- 34. 0 N 43. 0
+3. 0  
+   18. 0  
+   34. 0 N 43. 0
 
 16
 
 Use this value or your own. Network code:
 
 In the example below, CC is the network code used when a location is reported in the event’s s-file. Replace it with your own 2-digit network code.
-
-
 
 ```
 RSET TEST(02)=500.0
