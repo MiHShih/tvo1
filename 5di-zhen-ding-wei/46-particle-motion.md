@@ -1,7 +1,7 @@
-Use the technique below for particle motion to help determine phase arrivals within the event coda.
+# Particle motion
 
-After the azimuth has been determined \(as per the instructions on ‘event location with one 3-comp station’\), particle motion can be determined from the rotated components.  
- From the multi-trace mode:
+使用 particle motion 幫助確認 coda length。方位角確定之後，可以從 otated components 的確定質點運動。  
+從多 channel 模式：
 
 1. 1\) Select the ‘Rotat’ button, followed by the ‘plot’ button to refresh the screen and show the rotated traces. The trace windows will now show the back azimuth, labeled, for example, ‘baz 148’ for a back azimuth of 148.
 
