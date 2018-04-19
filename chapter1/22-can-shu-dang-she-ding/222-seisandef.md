@@ -6,13 +6,13 @@ SEISAN.DEF中有幾個參數必須依照不同需求與資料庫修改。
 
 需要修改的參數是：
 
-_**WAVEFORM\_BASE **_: 資料庫名稱，本手冊使用 _**TVE 。**_
+_**WAVEFORM\_BASE **_: 資料庫名稱，本手冊使用 _**TVO 。**_
 
 _**ARC\_ARCHIVE **_: SDS 之檔案位置
 
 _**ARC\_CHAN**_ : 定義使用測站與channel
 
-_**COPY\_WAVE DIR **_: 資料庫的名稱，供註冊地震事件時使用，本手冊使用 _**TVE**_。
+_**COPY\_WAVE DIR **_: 資料庫的名稱，供註冊地震事件時使用，本手冊使用 _**TVO**_。
 
 _**MERGE\_WAVEFORM **_: 用於在註冊地震事件時，命名所使用的network名稱。
 

@@ -18,5 +18,5 @@ TET00
 BOTH
 ```
 
-本手冊中將使用 _**TVE**_ \(Tatun Volcano Event\) 做為資料庫。
+本手冊中將使用 _**TVO**_ \(Tatun Volcano Observatory\) 做為資料庫。
 
