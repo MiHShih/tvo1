@@ -1,7 +1,7 @@
 # 參數檔
 
-1. _**SEISAN.DEF, **_
-2. _**MULPLT.DEF, **_
+1. _**SEISAN.DEF**_
+2. _**MULPLT.DEF**_
 3. _**STATION0.HYP**_
 4. _**VOLCANO.DEF**_  
 
