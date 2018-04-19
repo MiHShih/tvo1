@@ -1,3 +1,5 @@
+# SEISAN.DEF
+
 SEISAN.DEF 中定義了SEISAN中使用的環境參數。 請注意，參數必須與'Par 1'和'Par 2'標記對齊，因為Fortran讀取該文件，是讀取固定格式。
 
 SEISAN.DEF中有幾個參數必須依照不同需求與資料庫修改。
@@ -6,7 +8,7 @@ SEISAN.DEF中有幾個參數必須依照不同需求與資料庫修改。
 
 _**WAVEFORM\_BASE **_: 資料庫名稱，本手冊使用 _**TVE 。**_
 
-_**ARC\_ARCHIVE **_: SDS 之檔案位置  
+_**ARC\_ARCHIVE **_: SDS 之檔案位置
 
 _**ARC\_CHAN**_ : 定義使用測站與channel
 
@@ -20,12 +22,9 @@ _**EPIMAP\_STATIONS**_: 決定是否繪製測站，‘Ａ’將會畫出測站�
 
 _**EPIMAP\_MAP\_FILE**_: 地圖名稱。
 
-
-
 Example 1
 
 ```
-
 KEYWORD............Comments.............Par 1.....Par 2
 WAVEFORM_BASE      Waveform base name   BAYAN
 #
@@ -48,7 +47,6 @@ ARC_CHAN                                YM01 HHNTW
 ARC_CHAN                                YM01 HHZTW
 
 ARC_ARCHIVE                             /Users/shih/archive
-
 ```
 
 

@@ -1,16 +1,21 @@
-The program CONDET can be used to detect events in one or more continuous databases, either a SEISAN continous data base or an archive \(SeisComp or BUD types\).
+# CONDET
 
-CONDET 可用於搜尋一個或多個連續數據庫中的地震事件，可以是SEISAN的連續數據庫或其他程式的波形資料（SeisComp或BUD類型）。
+CONDET 可用於搜尋一個或多個連續波形資料庫中的地震，可以使用SEISAN本身的連續資料或其他程式的建立之波形資料庫（SeisComp 或 BUD）。
 
-該程序分兩步驟，首先在單一channel 上運行檢測器，其次檢測超過最小數量站的事件。 可以應用在臨時地震網的數據（例如，餘震監測，其中連續記錄而沒有事件檢測）以及用於即時資料參數的調整與測試。
+這個指令分兩步驟，
 
-程式中有三種不同的檢測方法:
+1. 在個測站之單一 channel 上進行搜尋。
+2. 依照同時段內所偵測之訊號數量，初步判斷是否為地震事件。 
+
+指令中有三種不同的檢測方法:
 
 1\) standard squared STA/LTA,
 
 2\) Carl John- son’s detector.
 
 3\) correlation with master event.
+
+
 
 執行方式如下，利用 Seiscomp 所建立波形資料庫 \(SDS\)，進行測試。
 

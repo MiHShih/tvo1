@@ -2,7 +2,7 @@
 
 ## [http://seisan.info](http://seisan.info)
 
-本手冊主旨在訓練TVO人員使用SEISAN之教程和手冊，用以處理 seiscomp3 所記錄儲存之火山地震的連續波形資料 \(miniseed in SDS\)。
+本手冊目的在提供TVO人員使用SEISAN進行日常例行作業之參考，用以處理 seiscomp3 所記錄儲存之火山地震的連續波形資料 \(miniseed in SDS\)。
 
 總體來說，資料之處理流程為，
 
@@ -11,8 +11,4 @@
 3. 對挑選出來的不同地震事件種類，建立地震目錄。
 
 In this manual steps 1 and 2 are organized under the section Routine Processing 1: registration. Steps 3 and 4 are organized under the section Routine Processing 2: EEV.
-
-
-
-
 
