@@ -4,17 +4,21 @@ AUTOPHASE 指令只能從EEV環境中執行，因此它只能是用於一個地�
 
 AUTOPHASE 可同時選擇P和S phases，並且還會在清晰的P波上決定上下動。
 
+執行步驟如下：
+
+* cd WOR/TVO
+
+* 執行 EEV 進入資料庫
+
+* 使用EEV指令 'dels' 刪除資料庫中之已挑選之波相到時（亦可使用編輯器刪除），但必須確定保留所有標題行。
+
+* 使用EEV指令 'ap' ，所得到結果會直接儲存至S-files。不需要刪除舊的資料，因為全部被自動刪除。
+
+* 檢查波像到時。 所有挑選之波像會設定為 I for impulsive。部分到時會同時決定上下動。
+
+* 進行地震定位。
 
 
-* Select event 19960705, same as used for AUTOPICK.
-
-* Delete already picked phases using the editor or the EEV command dels, make sure to keep all header lines.
-
-* Give command ‘ap’ and phases should be picked and saved in S-file. There is no need to delete old phases since they are all deleted automatically.
-
-* Plot event and inspect automatic picks, note that all picks are marked as I for impulsive. Also note that for some phases, polarity is picked.
-
-* Locate event
 
 
 

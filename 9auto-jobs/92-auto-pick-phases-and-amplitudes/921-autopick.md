@@ -1,6 +1,6 @@
 # AUTOPIC
 
-AUTOPICK 可以處理在SEISAN資料庫中之一個或多個地震事件。 該指令也可以在EEV環境中直接輸入'z'執行，或使用指令AUTO直接處理多個地震事件。 
+AUTOPICK 可以處理在SEISAN資料庫中之一個或多個地震事件。 該指令也可以在EEV環境中直接輸入'z'執行，或使用指令AUTO直接處理多個地震事件。
 
 此指令之參數檔 AUTOPIC.INP，預設存放於DAT。 在AUTOPIC中，所有要使用的 station 和 channel 必須在參數文件中定義。
 
@@ -61,8 +61,6 @@ filter_4         2.0       0.5       2.0      4.0       5.0
 * 進行地震定位。
 
 * 針對波相到時好的 channel，執行 'am' 自動計算地震規模。
-
-
 
 
 
