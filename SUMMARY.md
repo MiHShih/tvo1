@@ -51,7 +51,7 @@
   * [9.2 Auto pick phases and amplitudes](9auto-jobs/92-auto-pick-phases-and-amplitudes.md)
     * [9.2.1 AUTOPICK](9auto-jobs/92-auto-pick-phases-and-amplitudes/921-autopick.md)
     * [9.2.2 AUTOPHASE](9auto-jobs/92-auto-pick-phases-and-amplitudes/922-autophase.md)
-  * [9.3 AUTOMAG](9auto-jobs/93-automag.md)
+    * [9.2.3 AUTOMAG](9auto-jobs/93-automag.md)
 * instrument response files
 * [FAQ](faq.md)
   * [A. 檢視 S-file 內容](faq/jian-shi-s-file-nei-rong.md)

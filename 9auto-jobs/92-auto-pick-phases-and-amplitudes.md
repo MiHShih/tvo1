@@ -1,2 +1,16 @@
-SEISAN has 3 programs for auto picking phases: AUTOPICK, AUTOSIG and AUTOPHASE. AUTOPICK can pick P and S phases and coda length, AUTOSIG can pick P-phases, amplitudes and do spectra and AUTOPHASE can pick P and S-phases and coda length. AUTOMAG can pick amplitudes and make spectra and is a simplified version of AUTOSIG. 
+# Automatically pick phases
+
+SEISAN有3個自動挑選波相到時的指令：
+
+* AUTOPICK 可以挑選 P/S phases和 coda length，
+
+* AUTOSIG 可以挑選 P phases，振幅同時計算spectra，
+
+* AUTOPHASE 可以挑選 P/S phases 和 coda length。
+
+此外，
+
+* AUTOMAG可以挑選振幅和spectra，是AUTOSIG的簡化版本。
+
+
 
