@@ -1,4 +1,10 @@
-The AUTOPHASE program only operates from EEV so it can only be used with a single event. It is very easy to use since it does not require any parameter file. This has the disadvantage that all stations available in the waveform data will be used, however in many cases this is desired. AUTOPHASE pick both P and S and will also pick polarity on clear P’s.
+# AUTOPHASE
+
+AUTOPHASE 指令只能從EEV環境中執行，因此它只能是用於一個地震事件。 使用起來非常簡單，且不需要任何參數文件。因此，所有資料庫中之 station 與 channels 都會被使用。
+
+AUTOPHASE 可同時選擇P和S phases，並且還會在清晰的P波上決定上下動。
+
+
 
 * Select event 19960705, same as used for AUTOPICK.
 
