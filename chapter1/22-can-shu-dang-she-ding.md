@@ -1,9 +1,9 @@
 # 參數檔
 
-1. _**SEISAN.DEF**_
-2. _**MULPLT.DEF**_
-3. _**STATION0.HYP**_
-4. _**VOLCANO.DEF**_  
+1. **SEISAN.DEF**
+2. **MULPLT.DEF**
+3. **STATION0.HYP**
+4. **VOLCANO.DEF**  
 
 是在SEISAN環境中，在針對火山地震資料處理的四個重要的參數檔。 他們包含了針對不同計畫、目的所建立之資料庫，所應該對應需求修改的參數。
 
