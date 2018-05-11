@@ -55,6 +55,7 @@
 * [FAQ](faq.md)
   * [A. 檢視 S-file 內容](faq/jian-shi-s-file-nei-rong.md)
   * [B. MAP files](faq/b-map-files.md)
+  * [C. If you got an error message like this : "tau.for reads “IASP91\_linux.HED”  file.](faq/c-if-you-got-an-error-message-like-this-taufor-reads-iasp91linux-hed-file.md)
 * [Questions](questions.md)
 * [Reference](reference.md)
 
