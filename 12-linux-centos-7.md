@@ -30,9 +30,9 @@ source ~/.profile
 (source ~/.bash_profile in CentOS/Fedora)
 ```
 
-4. 重新產生 IASP travel time tables
+4.重新產生 IASP travel time table.
 
-5. 安裝 obspy \(python=2.7\)
+5.安裝 obspy \(python=2.7\)
 
 
 
