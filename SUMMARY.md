@@ -4,6 +4,7 @@
 * [0.簡介](0jian-jie.md)
 * [1.系統安裝](1xi-tong-an-zhuang.md)
   * [1.1在 Windows 10 中重新編譯 Seisan](1.1.md)
+    * [1.1.1 在 Windows 10 中重新編譯 Seisan 10.5](1.1/111.md)
   * [1.2 Linux \(Centos 7\)](12-linux-centos-7.md)
   * [1.3 Mac OS X](13-mac-os-x.md)
 * [2.環境設定](chapter1.md)
