@@ -8,7 +8,7 @@ linux \([http://seis.geus.net/software/seisan/node18.html](http://seis.geus.net/
 
 即完成安裝。
 
-2. 設定環境參數
+1. 設定環境參數
 
 2.1 編輯**COM/SEISAN.bash**
 
@@ -34,7 +34,7 @@ source ~/.profile
 (source ~/.bash_profile in CentOS/Fedora)
 ```
 
-3. 重新產生 IASP travel time table.
+1. 重新產生 IASP travel time table.
 
 
 
