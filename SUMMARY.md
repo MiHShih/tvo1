@@ -45,6 +45,7 @@
   * [4.6 Particle motion](5di-zhen-ding-wei/46-particle-motion.md)
   * [4.7 3-comp azimuth and event location with one 3-comp station:](5di-zhen-ding-wei/47-3-comp-azimuth-and-event-location-with-one-3-comp-station.md)
   * [4.8 rmsdep](5di-zhen-ding-wei/48-rmsdep.md)
+  * 4.9 google earth
 * [5.規模](5gui-mo.md)
   * [5.1 Local Magnitude, Ml](5gui-mo/51-local-magnitude.md)
   * [5.2 Coda Magnitude, Mc](5gui-mo/52-coda-magnitude.md)
