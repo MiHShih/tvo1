@@ -6,3 +6,25 @@
 
 ![](/assets/seisan-tutorial-021.png)
 
+edit MULPLT.DEF
+
+add your own shortcuts
+
+> KEYWORD............Comments.............Par 1.....Par 2
+>
+> X\_SCREEN\_SIZE      Size in % of screen   90.0
+>
+> PHASE NAME KEY     Phase key and phase
+>
+> _**PHASE NAME KEY                          1         IP**_
+>
+> _**PHASE NAME KEY                          2         EP**_
+>
+> _**PHASE NAME KEY                          3         IS**_
+>
+> _**PHASE NAME KEY                          4         ES**_
+>
+> PHASE WEIGHT KEY   Weight key and weight
+
+
+
