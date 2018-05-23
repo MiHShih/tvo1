@@ -35,6 +35,7 @@
       * [3.4.3.2 視窗時間的縮放](5di-zhen-ding-wei/41jing-zhun-ding-wei/3432-zoom-in-single-trace-mode.md)
       * [3.4.3.3 決定初動](5di-zhen-ding-wei/41jing-zhun-ding-wei/3433-pick-polarity-in-single-trace-mode.md)
       * [3.4.3.4 刪除並重新選取波相到時](5di-zhen-ding-wei/41jing-zhun-ding-wei/3434-deleting-and-re-picking-phases.md)
+    * 3.4.4 assume a location to plot by dist
 * [4.地震定位](5di-zhen-ding-wei.md)
   * [4.1 Travel time plot](5di-zhen-ding-wei/43-travel-time-plot.md)
   * [4.2 波相初動到時](5di-zhen-ding-wei/44-jian-shi-bo-xiang-dao-shi.md)
