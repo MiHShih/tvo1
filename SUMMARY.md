@@ -50,9 +50,9 @@
   * [5.2 Coda Magnitude, Mc](5gui-mo/52-coda-magnitude.md)
   * 5.3 Mw
 * [6.  斷層面解](7zhen-yuan-ji-zhi-jie.md)
-  * 6.1 first motion
+  * [6.1 first motion](7zhen-yuan-ji-zhi-jie/61-first-motion.md)
   * 6.2 P/S ratio
-  * 6.3 moment tensor solution
+  * [6.3 moment tensor solution](7zhen-yuan-ji-zhi-jie/63-moment-tensor-solution.md)
 * [7.輸出](7shu-chu.md)
 * [8.SEISAN Explorer\(SE\)](8seisan-explorerse.md)
 * [9.Automatic routines in SEISAN](9auto-jobs.md)
