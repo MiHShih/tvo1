@@ -48,6 +48,8 @@
   * [5.2 Coda Magnitude, Mc](5gui-mo/52-coda-magnitude.md)
   * 5.3 Mw
 * [6.震源機制解](7zhen-yuan-ji-zhi-jie.md)
+  * 6.1 first motion
+  * 6.2 P/S ratio
 * [7.輸出](7shu-chu.md)
 * [8.SEISAN Explorer\(SE\)](8seisan-explorerse.md)
 * [9.Automatic routines in SEISAN](9auto-jobs.md)
