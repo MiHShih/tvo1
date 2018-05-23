@@ -25,6 +25,7 @@
     * [3.2.4 選擇測站，channel](a/2bo-xing-cao-zuo/24-xuan-ze-ce-zhan-ff0c-channel.md)
     * [3.2.5 顯示單一測站的所有channels](a/2bo-xing-cao-zuo/25-xian-shi-dan-yi-ce-zhan-de-suo-you-channels.md)
     * [3.2.6 如何濾波](a/2bo-xing-cao-zuo/26-ru-he-lv-bo.md)
+    * 3.2.7 顯示 spectrogram
   * [3.3 擷取事件波形資料](a/a.md)
   * [3.4 瀏覽事件波形](a/555.md)
     * [3.4.1 開啟事件波形資料](aa/341-kai-qi-shi-jian-bo-xing-zi-liao.md)
@@ -45,11 +46,15 @@
 * [5.規模](5gui-mo.md)
   * [5.1 Local Magnitude, Ml](5gui-mo/51-local-magnitude.md)
   * [5.2 Coda Magnitude, Mc](5gui-mo/52-coda-magnitude.md)
+  * 5.3 Mw
 * [6.震源機制解](7zhen-yuan-ji-zhi-jie.md)
 * [7.輸出](7shu-chu.md)
 * [8.SEISAN Explorer\(SE\)](8seisan-explorerse.md)
 * [9.Automatic routines in SEISAN](9auto-jobs.md)
   * [9.1 Detection of events from continuous data](9auto-jobs/91-detection-of-events-from-continuous-data.md)
+    * 9.1.1 STA
+    * 9.1.2 Car
+    * 9.1.3 wavefrom correlation
   * [9.2 Auto pick phases and amplitudes](9auto-jobs/92-auto-pick-phases-and-amplitudes.md)
     * [9.2.1 AUTOPIC](9auto-jobs/92-auto-pick-phases-and-amplitudes/921-autopick.md)
     * [9.2.2 AUTOPHASE](9auto-jobs/92-auto-pick-phases-and-amplitudes/922-autophase.md)
