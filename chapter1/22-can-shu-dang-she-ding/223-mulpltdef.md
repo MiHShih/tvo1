@@ -10,3 +10,9 @@ MULPLT.DEF 中定義mulplt程序中所使用的參數。 請注意，參數必�
 
 DEFAULT CHANNELS 可在特定目的時，選擇並需要的channels 顯示在mulplt的畫面中，以利於作業。若沒有設定DEFAULT CHANNELS 則會將資料庫中所有channels列出。
 
+_**important**_ _**parameter**_
+
+NSORT\_DISTANCE
+
+
+
