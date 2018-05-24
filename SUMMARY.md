@@ -5,8 +5,9 @@
 * [1.系統安裝](1xi-tong-an-zhuang.md)
   * [1.1在 Windows 10 中重新編譯 Seisan](1.1.md)
     * [1.1.1 在 Windows 10 中重新編譯 Seisan 10.5](1.1/111.md)
-  * [1.2 Linux \(Centos 7\)](12-linux-centos-7.md)
   * [1.3 Mac OS X](13-mac-os-x.md)
+  * [1.2 Linux \(Centos 7\)](12-linux-centos-7.md)
+    * [1.2.1 install SE](12-linux-centos-7/121-install-se.md)
   * [1.4 安裝 python](14.md)
   * [1.5 安裝 Google earth](15-an-zhuang-google-earth.md)
 * [2.環境設定](chapter1.md)
@@ -54,6 +55,8 @@
   * [6.1 first motion](7zhen-yuan-ji-zhi-jie/61-first-motion.md)
   * 6.2 P/S ratio
   * [6.3 moment tensor solution](7zhen-yuan-ji-zhi-jie/63-moment-tensor-solution.md)
+  * 6.4 fq
+  * [6.5 plot several soultions](7zhen-yuan-ji-zhi-jie/65-plot-several-soultions.md)
 * [7.輸出](7shu-chu.md)
 * [8.SEISAN Explorer\(SE\)](8seisan-explorerse.md)
 * [9.Automatic routines in SEISAN](9auto-jobs.md)
