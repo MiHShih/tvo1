@@ -12,7 +12,7 @@ tar xzvf *.tar.gz
 
 即完成安裝。
 
-1. 設定環境參數
+2. 設定環境參數
 
 2.1 編輯**COM/SEISAN.bash**
 
