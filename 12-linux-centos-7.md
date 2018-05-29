@@ -24,7 +24,7 @@ export SEISAN_TOP="$HOME/seismo
 \(CentOS/Fedora則新增至~/.bash\_profile\)
 
 ```
-source /opt/SEISAN901/COM/SEISAN.bash
+source $PATH/COM/SEISAN.bash
 ```
 
 然後執行
