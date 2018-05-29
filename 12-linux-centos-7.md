@@ -6,6 +6,10 @@ linux \([http://seis.geus.net/software/seisan/node18.html](http://seis.geus.net/
 
 並在家目錄中建立 **seismo** 的資料夾，將 **seisan\_11**_\*\*\_**\_**linux64.tar.gz** 在 **seismo\*\* 目錄中解壓縮。
 
+```
+tar xzvf *.tar.gz
+```
+
 即完成安裝。
 
 1. 設定環境參數
@@ -34,7 +38,13 @@ source ~/.profile
 (source ~/.bash_profile in CentOS/Fedora)
 ```
 
-1. 重新產生 IASP travel time table.
+3. 重新產生 IASP travel time table，依下面步驟執行。
+
+```
+da
+remodl
+setbrn
+```
 
 
 
