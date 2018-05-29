@@ -12,6 +12,7 @@
   * [1.5 安裝 Google earth](15-an-zhuang-google-earth.md)
 * [2.環境設定](chapter1.md)
   * [2.1 建立資料庫](chapter1/21-jian-li-zi-liao-ku.md)
+    * 2.1.1 刪除資料庫
   * [2.2 參數檔設定](chapter1/22-can-shu-dang-she-ding.md)
     * [2.2.1 SEISAN.DEF](chapter1/22-can-shu-dang-she-ding/222-seisandef.md)
     * [2.2.2 STATION0.HYP](chapter1/22-can-shu-dang-she-ding/222-station0hyp.md)
