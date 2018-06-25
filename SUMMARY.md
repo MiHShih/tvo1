@@ -8,7 +8,6 @@
   * [1.3 Mac OS X](13-mac-os-x.md)
   * [1.2 Linux \(Centos 7\)](12-linux-centos-7.md)
     * [1.2.1 install SE](12-linux-centos-7/121-install-se.md)
-  * [1.4 安裝 python](14.md)
   * [1.5 安裝 Google earth](15-an-zhuang-google-earth.md)
 * [2.環境設定](chapter1.md)
   * [2.1 建立資料庫](chapter1/21-jian-li-zi-liao-ku.md)
@@ -75,6 +74,5 @@
   * [A. 檢視 S-file 內容](faq/jian-shi-s-file-nei-rong.md)
   * [B. MAP files](faq/b-map-files.md)
   * [C. If you got an error message like this : "tau.for reads “IASP91\_linux.HED”  file.](faq/c-if-you-got-an-error-message-like-this-taufor-reads-iasp91linux-hed-file.md)
-* [Questions](questions.md)
 * [Reference](reference.md)
 
