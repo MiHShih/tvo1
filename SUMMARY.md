@@ -55,9 +55,6 @@
   * [6.3 moment tensor solution](7zhen-yuan-ji-zhi-jie/63-moment-tensor-solution.md)
   * 6.4 fq
   * [6.5 plot several soultions](7zhen-yuan-ji-zhi-jie/65-plot-several-soultions.md)
-* [7.輸出](7shu-chu.md)
-  * 7.1 Waveform
-  * 7.2 catalog
 * [8.SEISAN Explorer\(SE\)](8seisan-explorerse.md)
 * [9.Automatic routines in SEISAN](9auto-jobs.md)
   * [9.1 Detection of events from continuous data](9auto-jobs/91-detection-of-events-from-continuous-data.md)
