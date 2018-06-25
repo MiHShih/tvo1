@@ -8,7 +8,6 @@
   * [1.3 Mac OS X](13-mac-os-x.md)
   * [1.2 Linux \(Centos 7\)](12-linux-centos-7.md)
     * [1.2.1 install SE](12-linux-centos-7/121-install-se.md)
-  * [1.5 安裝 Google earth](15-an-zhuang-google-earth.md)
 * [2.環境設定](chapter1.md)
   * [2.1 建立資料庫](chapter1/21-jian-li-zi-liao-ku.md)
   * [2.2 參數檔設定](chapter1/22-can-shu-dang-she-ding.md)
