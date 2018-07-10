@@ -4,7 +4,6 @@
 * [0.簡介](0jian-jie.md)
 * [1.系統安裝](1xi-tong-an-zhuang.md)
   * [1.1在 Windows 10 中重新編譯 Seisan](1.1.md)
-    * [1.1.1 在 Windows 10 中重新編譯 Seisan 10.5](1.1/111.md)
   * [1.3 Mac OS X](13-mac-os-x.md)
   * [1.2 Linux \(Centos 7\)](12-linux-centos-7.md)
     * [1.2.1 install SE](12-linux-centos-7/121-install-se.md)
@@ -43,24 +42,18 @@
   * [4.5 地圖檢視](5di-zhen-ding-wei/45-di-tu-jian-shi.md)
   * [4.6 Particle motion](5di-zhen-ding-wei/46-particle-motion.md)
   * [4.7 3-comp azimuth and event location with one 3-comp station:](5di-zhen-ding-wei/47-3-comp-azimuth-and-event-location-with-one-3-comp-station.md)
-  * [4.8 rmsdep](5di-zhen-ding-wei/48-rmsdep.md)
-  * 4.9 google earth
 * [5.規模](5gui-mo.md)
   * [5.1 Local Magnitude, Ml](5gui-mo/51-local-magnitude.md)
   * [5.2 Coda Magnitude, Mc](5gui-mo/52-coda-magnitude.md)
-  * 5.3 Mw
 * [6.  斷層面解](7zhen-yuan-ji-zhi-jie.md)
   * [6.1 first motion](7zhen-yuan-ji-zhi-jie/61-first-motion.md)
-  * 6.2 P/S ratio
+  * [6.2 P/S ratio](7zhen-yuan-ji-zhi-jie/62-ps-ratio.md)
   * [6.3 moment tensor solution](7zhen-yuan-ji-zhi-jie/63-moment-tensor-solution.md)
-  * 6.4 fq
+  * [6.4 fq](7zhen-yuan-ji-zhi-jie/64-fq.md)
   * [6.5 plot several soultions](7zhen-yuan-ji-zhi-jie/65-plot-several-soultions.md)
 * [8.SEISAN Explorer\(SE\)](8seisan-explorerse.md)
 * [9.Automatic routines in SEISAN](9auto-jobs.md)
   * [9.1 Detection of events from continuous data](9auto-jobs/91-detection-of-events-from-continuous-data.md)
-    * 9.1.1 STA
-    * 9.1.2 Car
-    * 9.1.3 wavefrom correlation
   * [9.2 Auto pick phases and amplitudes](9auto-jobs/92-auto-pick-phases-and-amplitudes.md)
     * [9.2.1 AUTOPIC](9auto-jobs/92-auto-pick-phases-and-amplitudes/921-autopick.md)
     * [9.2.2 AUTOPHASE](9auto-jobs/92-auto-pick-phases-and-amplitudes/922-autophase.md)
